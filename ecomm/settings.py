@@ -21,7 +21,7 @@ CALLBACK_URL = "https://example.com/callback"  # Replace with your actual callba
 # For now, I'm assuming it's related to MPESA_PASSKEY or one of the other keys you've provided.
 MPESA_API_KEY_SECRET = MPESA_PASSKEY  # If this is intended to be the same as MPESA_PASSKEY
 
-SECRET_KEY = "your-secret-key"
+# SECRET_KEY = "your-secret-key"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
